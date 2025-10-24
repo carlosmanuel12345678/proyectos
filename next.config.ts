@@ -1,4 +1,4 @@
 const nextConfig = {
-  trailingSlash: false, // opcional
+  trailingSlash: true, 
 };
 export default nextConfig;
